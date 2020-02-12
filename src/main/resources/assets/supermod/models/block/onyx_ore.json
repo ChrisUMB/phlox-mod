@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "supermod:block/onyx_ore"
+  }
+}
