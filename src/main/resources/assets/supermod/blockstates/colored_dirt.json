@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "supermod:block/colored_dirt"
+      },
+      {
+        "model": "supermod:block/colored_dirt",
+        "y": 90
+      },
+      {
+        "model": "supermod:block/colored_dirt",
+        "y": 180
+      },
+      {
+        "model": "supermod:block/colored_dirt",
+        "y": 270
+      }
+    ]
+  }
+}

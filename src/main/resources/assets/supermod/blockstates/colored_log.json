@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "supermod:block/colored_log"
+    },
+    "axis=z": {
+      "model": "supermod:block/colored_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "supermod:block/colored_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

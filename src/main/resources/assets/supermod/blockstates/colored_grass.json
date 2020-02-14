@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "supermod:block/colored_grass"
+      },
+      {
+        "model": "supermod:block/colored_grass",
+        "y": 90
+      },
+      {
+        "model": "supermod:block/colored_grass",
+        "y": 180
+      },
+      {
+        "model": "supermod:block/colored_grass",
+        "y": 270
+      }
+    ]
+  }
+}

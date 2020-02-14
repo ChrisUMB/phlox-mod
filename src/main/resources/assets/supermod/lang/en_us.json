@@ -1,8 +1,10 @@
 {
   "item.supermod.onyx": "Onyx",
   "item.supermod.onyx_pickaxe": "Onyx Pickaxe",
-
   "block.supermod.onyx_ore": "Onyx Ore",
   "block.supermod.colored_ore": "Colored Ore",
+  "block.supermod.colored_log": "Colored Log",
+  "block.supermod.colored_planks": "Colored Planks",
+  "block.supermod.colored_leaves": "Colored Leaves",
   "itemGroup.supermod.general": "General"
 }
